@@ -1,0 +1,12 @@
+D:\CODEGYM\CASESTUDY\src\main\java\com\codegym\controller\AddNoteServlet.java
+D:\CODEGYM\CASESTUDY\src\main\java\com\codegym\controller\DeleteNoteServlet.java
+D:\CODEGYM\CASESTUDY\src\main\java\com\codegym\controller\EditNoteServlet.java
+D:\CODEGYM\CASESTUDY\src\main\java\com\codegym\controller\NoteServlet.java
+D:\CODEGYM\CASESTUDY\src\main\java\com\codegym\controller\ViewNoteServlet.java
+D:\CODEGYM\CASESTUDY\src\main\java\com\codegym\database\DBConnection.java
+D:\CODEGYM\CASESTUDY\src\main\java\com\codegym\model\Note.java
+D:\CODEGYM\CASESTUDY\src\main\java\com\codegym\model\NoteType.java
+D:\CODEGYM\CASESTUDY\src\main\java\com\codegym\service\NoteManagement.java
+D:\CODEGYM\CASESTUDY\src\main\java\com\codegym\strategy\NoteDBStrategy.java
+D:\CODEGYM\CASESTUDY\src\main\java\com\codegym\strategy\NoteFileStrategy.java
+D:\CODEGYM\CASESTUDY\src\main\java\com\codegym\strategy\NoteStrategy.java

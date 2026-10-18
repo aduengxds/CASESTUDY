@@ -1,0 +1,12 @@
+com\codegym\controller\AddNoteServlet.class
+com\codegym\strategy\NoteFileStrategy.class
+com\codegym\controller\DeleteNoteServlet.class
+com\codegym\controller\NoteServlet.class
+com\codegym\controller\ViewNoteServlet.class
+com\codegym\strategy\NoteDBStrategy.class
+com\codegym\service\NoteManagement.class
+com\codegym\database\DBConnection.class
+com\codegym\model\NoteType.class
+com\codegym\controller\EditNoteServlet.class
+com\codegym\model\Note.class
+com\codegym\strategy\NoteStrategy.class
